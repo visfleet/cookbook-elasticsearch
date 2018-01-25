@@ -6,7 +6,7 @@
 
 ## Looking for Elasticsearch 6.x?
 
-Please [try the 4.0.0-beta release](https://github.com/elastic/cookbook-elasticsearch/tree/4.0.0-beta) of this cookbook. Otherwise pin your cookbook back to a '~> 3.0' release. The 4.0.0-beta branch will be promoted to master once it's stable & working with Elasticsearch 6.0 releases.
+Please [try the 4.0.0 release](https://github.com/elastic/cookbook-elasticsearch/tree/4.0.0) of this cookbook. Otherwise pin your cookbook back to a '~> 3.0' release. The 4.0.0 branch will be promoted to master once it's stable & working with Elasticsearch 6.0 releases.
 
 ## Attributes
 
